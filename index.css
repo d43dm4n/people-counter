@@ -3,9 +3,22 @@ html, body {
     margin: 0;
     padding: 0;
     text-align: center;
+    background-color: snow;
 }
 h1{
  font-size: 250%;
  
 }
-h2
+h2{
+    font-size: 200%;
+    font-weight: bold;
+}
+button{
+    align-items: normal;
+    background-color:cornflowerblue ;
+    font-weight: bold;
+    border: 1rem;
+    border-radius: 1rem;
+    font-size: 200%;
+    width: 300px;
+}
